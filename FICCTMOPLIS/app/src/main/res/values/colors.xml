@@ -1,6 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="window_background">#ffffff</color>
+    <color name="colorPrimary">#222d32</color>
+    <color name="colorPrimaryDark">#222d32</color>
+    <color name="colorAccent">#222d32</color>
+
+
+
+    <color name="blanco">#dcdbdb</color>
+    <color name="amarillo">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="rojo">#FF0000</color>
+    <color name="plata">#e4e3e3</color>
+    <color name="gris">#808080</color>
+    <color name="verde_oliva">#808000</color>
+    <color name="morado">#800080</color>
+    <color name="marron">#800000</color>
+    <color name="agua">#00FFFF</color>
+    <color name="lima">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="verde">#008000</color>
+
+    <color name="azul">#4285F4</color>
+    <color name="azulDark">#0d47a1</color>
+
+    <color name="warning">#ffbb33</color>
+    <color name="warningDark">#FF8800</color>
+
+    <color name="succes">#00C851</color>
+    <color name="succesDark">#007E33</color>
+
+    <color name="navy">#00C851</color>
+    <color name="negro">#000000</color>
+    <color name="marfil">#FFFFF0</color>
+    <color name="dorado">#EEE8AA</color>
+    <color name="luis">#142440</color>
+    <color name="plomo">#858889</color>
+
+
+
+
+    <color name="primaryDarkColor">#222d32</color>
+    <color name="primaryColor">#222d32</color>
+    <color name="accentColor">#FF4081</color>
+
+    <color name="background_footer_item_grid_categorias">#222d32</color>
+
+    <color name="color_light">#ffffff</color>
+
+    <color name="background_header_seccion_inicio">#4B4B4B</color>
+
+
+
+
+
+
+    <color name="screen1">#142440</color>
+    <color name="screen2">#9C27B0</color>
+    <color name="screen3">#009688</color>
+    <color name="screen4">#FF9800</color>
+    <color name="screen5">#5a5c5d</color>
+
+    <color name="dot_dark_screen1">#C2185B</color>
+    <color name="dot_dark_screen2">#6A1B9A</color>
+    <color name="dot_dark_screen3">#00695C</color>
+    <color name="dot_dark_screen4">#EF6C00</color>
+    <color name="dot_dark_screen5">#FFFFF0</color>
+
+    <color name="dot_light_screen1">#F8BBD0</color>
+    <color name="dot_light_screen2">#E1BEE7</color>
+    <color name="dot_light_screen3">#80CBC4</color>
+    <color name="dot_light_screen4">#FFE0B2</color>
+    <color name="dot_light_screen5">#A1887F</color>
+
+    <array name="dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen5</item>
+    </array>
+
+    <array name="dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+        <item>@color/dot_dark_screen5</item>
+    </array>
 </resources>
